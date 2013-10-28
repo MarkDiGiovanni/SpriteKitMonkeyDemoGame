@@ -1,0 +1,19 @@
+Licensed under the MIT license.
+
+Game Art:
+This is free art – it is under a Creative Commons Attribution License: 
+http://www.vickiwenderlich.com/free-art/licensing/
+http://www.vickiwenderlich.com/2013/05/free-game-art-space-monkey/
+
+Game Music & Sounds:
+
+Background Music:
+http://creativecommons.org/licenses/by/3.0/
+http://opengameart.org/content/the-return-of-martha-stewart
+
+
+ghost.wav:              http://opengameart.org/content/ghost
+error or failed.mp3:    http://opengameart.org/content/ui-failed-or-error
+alarm.wav:              http://opengameart.org/content/alarm-0
+Menu Choice.mp3:        http://opengameart.org/content/menu-choice
+Spell2.wav:             http://opengameart.org/content/spell-2
