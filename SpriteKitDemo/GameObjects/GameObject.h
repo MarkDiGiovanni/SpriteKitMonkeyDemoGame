@@ -11,12 +11,13 @@
 /**
  Used to identify game object types and is used for object contacts and collisions.
  */
-typedef enum : uint8_t {
-    CollisionTypeMonkey      =1,
-    CollisionTypeAsteroid    =2,
-    CollisionTypeBanana      =4,
-    CollisionTypeHealth      =8
-} CollisionType;
+
+typedef NS_OPTIONS(uint32_t, CollisionType) {
+    CollisionTypeMonkey      =1 << 0,
+    CollisionTypeAsteroid    =1 << 1,
+    CollisionTypeBanana      =1 << 2,
+    CollisionTypeHealth      =1 << 3,
+};
 
 @interface GameObject : SKSpriteNode
 
