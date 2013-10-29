@@ -1,9 +1,7 @@
 SpriteKitMonkeyDemoGame
 =======================
 
-This is a demo game written for reference with the Sprite Kit Introduction Blog Post at blogs.captechconsulting.com
-
-Blog Post Link forthcoming.
+This is a demo game written for reference with the Sprite Kit Introduction Blog Post: http://www.captechconsulting.com/blog/mark-digiovanni/ios-7-tutorial-series-introduction-sprite-kit
 
 Resource Attributions:
 Audio files referenced in this game are all licensed under the Creative Commons Attribution license and can be found here:
